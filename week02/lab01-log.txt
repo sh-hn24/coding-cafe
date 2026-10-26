@@ -1,0 +1,16 @@
+   80  which pip
+   81  which ls
+   82  python3
+   83  deactivate
+   84  python3
+   85  cd ~/coding-cafe
+   86  ls
+   87  ls -a
+   88  source .venv/bin/activate
+   89  which python3
+   90  pip list
+   91  pip install request
+   92  deactivate
+   93  man ls
+   94  history
+   95  history >/coding-cafe/week02/terminal_history.txt
